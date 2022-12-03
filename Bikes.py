@@ -1,6 +1,7 @@
 #Rodrigo Hernández A01610903
 #Nadia Luna Rivas A01658134
-# Carlos Ledezma A00828114 
+#Carlos Ledezma A00828114 
+#Sofía Gutiérrez A00827191
 
 
 #-----------Librerías
